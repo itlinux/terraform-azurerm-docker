@@ -1,5 +1,6 @@
 
 = Install CentOS 7 with Docker on AZURE
+
 This creates a CentOS VM running docker and for demo it installs nginx
 I use it as a base then add other docker containers as needed.
 
